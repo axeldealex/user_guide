@@ -125,7 +125,7 @@ Now you can make the file `true_shebang.cwl` executable with `chmod u+x`.
 :name: making-true.cwl-executable
 :caption: Making `true.cwl` executable.
 
-$ chmod u+x true.cwl
+$ chmod u+x true_shebang.cwl
 ```
 
 And finally, you can execute it directly in the command-line. On execution, the program
